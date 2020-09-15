@@ -1,0 +1,24 @@
+/Volumes/Data/Users U18/Scott/C#/Pinger/bin/Debug/netcoreapp3.1/Pinger
+/Volumes/Data/Users U18/Scott/C#/Pinger/bin/Debug/netcoreapp3.1/Pinger.deps.json
+/Volumes/Data/Users U18/Scott/C#/Pinger/bin/Debug/netcoreapp3.1/Pinger.runtimeconfig.json
+/Volumes/Data/Users U18/Scott/C#/Pinger/bin/Debug/netcoreapp3.1/Pinger.runtimeconfig.dev.json
+/Volumes/Data/Users U18/Scott/C#/Pinger/bin/Debug/netcoreapp3.1/Pinger.dll
+/Volumes/Data/Users U18/Scott/C#/Pinger/bin/Debug/netcoreapp3.1/Pinger.pdb
+/Volumes/Data/Users U18/Scott/C#/Pinger/obj/Debug/netcoreapp3.1/Pinger.csprojAssemblyReference.cache
+/Volumes/Data/Users U18/Scott/C#/Pinger/obj/Debug/netcoreapp3.1/Pinger.AssemblyInfoInputs.cache
+/Volumes/Data/Users U18/Scott/C#/Pinger/obj/Debug/netcoreapp3.1/Pinger.AssemblyInfo.cs
+/Volumes/Data/Users U18/Scott/C#/Pinger/obj/Debug/netcoreapp3.1/Pinger.dll
+/Volumes/Data/Users U18/Scott/C#/Pinger/obj/Debug/netcoreapp3.1/Pinger.pdb
+C:\Users\scott\Documents\Projects\Pinger\bin\Debug\netcoreapp3.1\Pinger.exe
+C:\Users\scott\Documents\Projects\Pinger\bin\Debug\netcoreapp3.1\Pinger.deps.json
+C:\Users\scott\Documents\Projects\Pinger\bin\Debug\netcoreapp3.1\Pinger.runtimeconfig.json
+C:\Users\scott\Documents\Projects\Pinger\bin\Debug\netcoreapp3.1\Pinger.runtimeconfig.dev.json
+C:\Users\scott\Documents\Projects\Pinger\bin\Debug\netcoreapp3.1\Pinger.dll
+C:\Users\scott\Documents\Projects\Pinger\bin\Debug\netcoreapp3.1\Pinger.pdb
+C:\Users\scott\Documents\Projects\Pinger\obj\Debug\netcoreapp3.1\Pinger.csprojAssemblyReference.cache
+C:\Users\scott\Documents\Projects\Pinger\obj\Debug\netcoreapp3.1\Pinger.csproj.CoreCompileInputs.cache
+C:\Users\scott\Documents\Projects\Pinger\obj\Debug\netcoreapp3.1\Pinger.AssemblyInfoInputs.cache
+C:\Users\scott\Documents\Projects\Pinger\obj\Debug\netcoreapp3.1\Pinger.AssemblyInfo.cs
+C:\Users\scott\Documents\Projects\Pinger\obj\Debug\netcoreapp3.1\Pinger.dll
+C:\Users\scott\Documents\Projects\Pinger\obj\Debug\netcoreapp3.1\Pinger.pdb
+C:\Users\scott\Documents\Projects\Pinger\obj\Debug\netcoreapp3.1\Pinger.genruntimeconfig.cache
